@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\OMER\Desktop\cuneyt\AtpGuncelleme\Publish" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/AtpGuncelleme.dll" publishTime="08/24/2014 12:58:00" />
+    <file relUrl="bin/AtpGuncelleme.pdb" publishTime="08/24/2014 12:57:59" />
+    <file relUrl="Web.config" publishTime="08/24/2014 12:58:01" />
+    <file relUrl="ATPService.asmx" publishTime="08/24/2014 12:35:33" />
+  </publishProfile>
+</publishData>
